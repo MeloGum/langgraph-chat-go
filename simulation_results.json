@@ -1,0 +1,68 @@
+{
+  "wins": {
+    "Gamma": 50,
+    "Beta": 18,
+    "Delta": 28,
+    "Epsilon": 3,
+    "Alpha": 1,
+    "Zeta": 0,
+    "Eta": 0,
+    "Theta": 0,
+    "Iota": 0,
+    "Kappa": 0
+  },
+  "avg_rounds": 20.0,
+  "avg_deaths": 4.14,
+  "strategy_stats": {
+    "Alpha": {
+      "strategy": "entropy_shift",
+      "wins": 1,
+      "avg_hp": 0.6
+    },
+    "Beta": {
+      "strategy": "grudge_keeper",
+      "wins": 18,
+      "avg_hp": 4.8
+    },
+    "Gamma": {
+      "strategy": "poison_leader",
+      "wins": 50,
+      "avg_hp": 30.5
+    },
+    "Delta": {
+      "strategy": "survivor_hunter",
+      "wins": 28,
+      "avg_hp": 56.1
+    },
+    "Epsilon": {
+      "strategy": "bandwagon_breaker",
+      "wins": 3,
+      "avg_hp": 26.1
+    },
+    "Zeta": {
+      "strategy": "chaos_agent",
+      "wins": 0,
+      "avg_hp": 25.45
+    },
+    "Eta": {
+      "strategy": "kingmaker",
+      "wins": 0,
+      "avg_hp": 14.85
+    },
+    "Theta": {
+      "strategy": "mirror_twin",
+      "wins": 0,
+      "avg_hp": 54.75
+    },
+    "Iota": {
+      "strategy": "assassin",
+      "wins": 0,
+      "avg_hp": 55.5
+    },
+    "Kappa": {
+      "strategy": "prophecy",
+      "wins": 0,
+      "avg_hp": 56.65
+    }
+  }
+}
